@@ -1,0 +1,72 @@
+*{
+        margin: 0 0;
+        padding: 0 0;
+}
+form{
+        width: 80%;
+}
+.full-form{
+        border: 15px solid rgb(139, 139, 235);
+        background-color: rgb(71, 102, 102);
+        width: 900px;
+        height: 500px;
+        text-align: left;
+        margin: 0 auto;
+        margin-top: 20px;
+        padding: 10px;
+}
+.div-1{
+        border: 1px solid ;
+        width: 50%;
+        height: 100%;
+
+}
+.details{
+        width: 100%;
+        display: flex;
+        padding: 20px;
+        border: solid 1px yellow;
+        position: relative;
+        border-collapse:separate;
+}
+.details input{
+        background-color:rgb(71, 102, 102) ;
+        border-bottom: yellow 2px solid;
+        background-position-y: center;
+}
+#second-name{
+        margin-left: 40px;
+}
+.email-div{
+        width: 100%;
+        display: flex;
+        padding: 20px;
+        border: solid 1px yellow;
+        position: relative; 
+}
+.phone{
+              width: 90%;
+        display: flex;
+        padding: 20px;
+        border: solid 1px yellow;
+        position: relative; 
+}
+.massage{
+         width: 90%;
+        display: flex;
+        padding: 20px;
+        border: solid 1px yellow;
+        position: relative;
+}  
+.submit a{
+        border: 1px solid;
+        border-style: none;
+        background-color: rgb(28, 223, 223);
+        color:yellow ;
+        border-radius: 5px;
+        padding: 10px 45%;
+}
+.submit{
+        margin-top: 20%;
+}
+
